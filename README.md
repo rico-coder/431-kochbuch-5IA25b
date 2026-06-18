@@ -12,7 +12,33 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 | Projektlead  | Tim Hug     |
 | Tech Lead    | Leon Körber |
 
-**Tech Stack:** Hugo *(? Node.js + Express)*
+**Tech Stack:** Hugo
+
+---
+
+## Rezepte der Klasse
+
+| Person   | Rezept                       |
+|----------|------------------------------|
+| Krithik  | Waffeln                      |
+| Simon    | Fajitas                      |
+| Tset     | Chicken Fried Rice           |
+| Rico     | Kaiserschmarrn               |
+| Ranja    | Ofenlachs mit Kartoffeln     |
+| Jakub    | Schoko-Tassenkuchen          |
+| Roksana  | Pfannkuchen                  |
+| Tim      | Spaghetti Bolognese          |
+| Latifa   | Pasta mit Lachs              |
+| CJ       | Flammkuchen                  |
+| Jaydon   | Pizza Prosciutto             |
+| Leon     | Poulet Tenders               |
+| Robin    | Erdbeer-Muffins              |
+| Jeremy   | Chocolate Chip Cookies       |
+| Oliver   | Banancakes                  |
+| Basim    | Poulet-Stroganov             |
+| Nolan    | Kladdkaka                    |
+| Linus    | Mac n' Cheese                |
+| Felix    | Steak und Nudeln             |
 
 ---
 
@@ -20,7 +46,7 @@ Das fertige Kochbuch findest du **[hier](https://bbw-it.github.io/431-kochbuch-5
 
 Alle `.md`-Dateien und Bilder müssen wie folgt benannt werden:
 
-> *tbd*
+> *name-vom-rezept.md*
 
 ## Rezept beisteuern
 
