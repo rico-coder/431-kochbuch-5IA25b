@@ -6,59 +6,52 @@ draft: false
 description: "Kaiserschmarrn ist ein fluffiger,
 zerrissener Pfannkuchen aus Österreich, der goldbraun
 gebraten und mit Puderzucker bestäubt wird. Traditionell
-wird er mit Zwetschgenmarmelade oder Apfelmus serviert
-und ist ein beliebtes Dessert oder Hauptmahlzeit."
+wird er mit Zwetschgenröster oder Apfelmus serviert
+und ist ein beliebtes Dessert oder süsse Hauptmahlzeit."
 image: "images/recipes/kaiserschmarrn.webp"
 
 # ── Einordnung ───────────────────────────────────────────
-categories: ["Dessert", "Französisch"]
-tags: ["schokolade", "dessert", "datenacht", "beeindruckend", "schnell"]
-contributors: ["Jean-Pierre Dubois"]
+categories: ["Dessert", "Österreichisch"]
+tags: ["pfannkuchen", "dessert", "österreich", "klassiker", "süssspeise"]
+contributors: ["Rico"]
 difficulty: "Mittel"
 
 # ── Eckdaten ─────────────────────────────────────────────
 servings: 4
-prep_time: "10 Min."
-cook_time: "14 Min."
+prep_time: "15 Min."
+cook_time: "20 Min."
 
 # ── Zutaten ──────────────────────────────────────────────
 ingredients:
-  - "200g dunkle Schokolade (70% Kakao)"
-  - "120g ungesalzene Butter, plus mehr zum Einfetten"
-  - "2 ganze Eier"
-  - "2 Eigelb"
-  - "1/4 Tasse Zucker"
-  - "2 EL Mehl"
-  - "1 Prise Salz"
-  - "1 TL Vanilleextrakt"
-  - "Kakaopulver zum Bestäuben"
-  - "Vanilleeis zum Servieren"
-  - "Frische Himbeeren zum Garnieren"
+  - "4 Eier (getrennt)"
+  - "200 ml Milch"
+  - "130 g Mehl"
+  - "3 EL Zucker"
+  - "3 EL Rosinen (optional, in Rum eingeweicht)"
+  - "Puderzucker zum Bestäuben"
+  - "Zwetschgenröster oder Apfelmus zum Servieren"
 
 # ── Zubereitung ──────────────────────────────────────────
 instructions:
-  - "Den Ofen auf 220°C vorheizen. Vier Förmchen (ca. 180 ml) grosszügig buttern und mit Kakaopulver bestäuben."
-  - "Schokolade und Butter zusammen in einer hitzefesten Schüssel über simmerndem Wasser schmelzen (oder in 30-Sekunden-Intervallen in der Mikrowelle), bis glatt. Leicht abkühlen lassen."
-  - "In einer separaten Schüssel ganze Eier, Eigelb, Zucker und Vanille ca. 3 Minuten schaumig schlagen, bis die Masse hell und dickflüssig ist."
-  - "Die geschmolzene Schokoladenmischung unter die Eimischung heben. Dann das Mehl und Salz unterheben, bis gerade verbunden."
-  - "Den Teig gleichmässig auf die vorbereiteten Förmchen verteilen (sie sollten etwa 3/4 voll sein)."
-  - "Die Förmchen auf ein Backblech stellen und genau 12–14 Minuten backen. Die Ränder sollten gesetzt sein, aber die Mitte sollte noch wackeln."
-  - "1 Minute ruhen lassen, dann ein Messer um die Ränder fahren. Einen Teller darauflegen, umdrehen und das Förmchen vorsichtig abheben."
-  - "Sofort mit einer Kugel Vanilleeis und frischen Himbeeren servieren."
+  - "Eier trennen. Eigelb mit Zucker cremig rühren, dann die Milch einrühren."
+  - "Das Mehl unterrühren, bis ein glatter, klumpenfreier Teig entsteht. Rosinen untermischen (falls verwendet)."
+  - "Eiweiss steif schlagen und vorsichtig unter den Teig heben."
+  - "Den Teig gleichmässig hineingiessen, auf mittlerer Hitze 3–4 Minuten backen, bis die Unterseite goldbraun ist."
+  - "Den Schmarrn grob in unregelmässige Stücke reissen."
+  - "Die Stücke unter gelegentlichem Wenden weitere 5–7 Minuten goldbraun und leicht knusprig braten."
+  - "Auf vorgewärmten Tellern anrichten, grosszügig mit Puderzucker bestäuben und sofort mit Zwetschgenröster oder Apfelmus servieren."
 ---
-
-> «Beim Lava-Kuchen entscheidet eine einzige Minute über alles. Stell dir einen Timer!» — Jean-Pierre
 
 ## Über dieses Rezept
 
-Der Schokoladen-Lava-Kuchen ist der ultimative Showstopper, der eigentlich einfach zuzubereiten ist. Das Geheimnis ist präzises Timing — auch nur eine Minute zu lange, und das wunderschöne flüssige Zentrum ist dahin.
+Kaiserschmarrn ist ein österreichischer Klassiker der Alpen- und Hausküche. Der Name soll auf Kaiser Franz Joseph I. zurückgehen, dem das Gericht als missglückter Palatschinken serviert wurde. Er liebte es trotzdem. Das Geheimnis des fluffigen Teigs liegt im sorgfältig untergehobenen Eischnee.
 
 ## Tipps
 
-- **Nicht zu lange backen!** 12 Minuten sind meistens perfekt. Die Mitte sollte kaum gesetzt aussehen.
-- Der Teig kann im Voraus zubereitet und gekühlt werden. Beim Backen aus dem Kühlschrank 1–2 Minuten länger backen.
-- Hochwertige dunkle Schokolade verwenden — sie ist der Star des Desserts.
+- **Eischnee vorsichtig unterheben!** Zu kräftiges Rühren macht den Schmarrn zäh und flach. Sanft einarbeiten.
+- Eine grosse Pfanne verwenden.
+- Frisch und direkt aus der Pfanne servieren, da er schnell an Knusprigkeit verliert.
 
 ## Vorbereitung
 
-Die Förmchen füllen und bis zu 8 Stunden vor dem Backen kühlen. Aus dem Kühlschrank 1–2 Minuten länger backen.
+Zutaten herrichten, bevor man etwas in die Pfanne gibt.
