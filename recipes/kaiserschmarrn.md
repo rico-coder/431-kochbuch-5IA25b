@@ -8,7 +8,7 @@ zerrissener Pfannkuchen aus Österreich, der goldbraun
 gebraten und mit Puderzucker bestäubt wird. Traditionell
 wird er mit Zwetschgenröster oder Apfelmus serviert
 und ist ein beliebtes Dessert oder süsse Hauptmahlzeit."
-image: "images/recipes/kaiserschmarrn.webp"
+image: "images/recipes/kaiserschmarrn.jpeg"
 
 # ── Einordnung ───────────────────────────────────────────
 categories: ["Dessert", "Österreichisch"]
