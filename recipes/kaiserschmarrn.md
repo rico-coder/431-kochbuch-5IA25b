@@ -3,7 +3,7 @@
 title: "Kaiserschmarrn"
 date: 2026-06-18
 draft: false
-description: "Kaiserschmarrn ist ein fluffiger,
+description: "Ein Kaiserschmarrn ist ein fluffiger,
 zerrissener Pfannkuchen aus Österreich, der goldbraun
 gebraten und mit Puderzucker bestäubt wird. Traditionell
 wird er mit Zwetschgenröster oder Apfelmus serviert
@@ -36,15 +36,17 @@ instructions:
   - "Eier trennen. Eigelb mit Zucker cremig rühren, dann die Milch einrühren."
   - "Das Mehl unterrühren, bis ein glatter, klumpenfreier Teig entsteht. Rosinen untermischen (falls verwendet)."
   - "Eiweiss steif schlagen und vorsichtig unter den Teig heben."
-  - "Den Teig gleichmässig hineingiessen, auf mittlerer Hitze 3–4 Minuten backen, bis die Unterseite goldbraun ist."
+  - "Den Teig gleichmässig in eine Pfanne giessen, auf mittlerer Hitze 3–4 Minuten backen, bis die Unterseite goldbraun ist."
   - "Den Schmarrn grob in unregelmässige Stücke reissen."
   - "Die Stücke unter gelegentlichem Wenden weitere 5–7 Minuten goldbraun und leicht knusprig braten."
   - "Auf vorgewärmten Tellern anrichten, grosszügig mit Puderzucker bestäuben und sofort mit Zwetschgenröster oder Apfelmus servieren."
 ---
 
+> «Einfach lecker :D» — Rico
+
 ## Über dieses Rezept
 
-Kaiserschmarrn ist ein österreichischer Klassiker der Alpen- und Hausküche. Der Name soll auf Kaiser Franz Joseph I. zurückgehen, dem das Gericht als missglückter Palatschinken serviert wurde. Er liebte es trotzdem. Das Geheimnis des fluffigen Teigs liegt im sorgfältig untergehobenen Eischnee.
+Der Kaiserschmarrn ist ein österreichischer Klassiker der Alpen- und Hausküche. Der Name soll auf Kaiser Franz Joseph I. zurückgehen, dem das Gericht als missglückter Palatschinken serviert wurde. Er liebte es trotzdem. Das Geheimnis des fluffigen Teigs liegt im sorgfältig untergehobenen Eischnee.
 
 ## Tipps
 
